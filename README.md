@@ -50,7 +50,7 @@ Software Engineer focused on building **backend systems** and integrating **Mach
 ## 📊 Language Proficiency
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-1017&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&langs_count=8" width="400px" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vansh-1017&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&langs_count=8&exclude_repo=Research-Repo&size_weight=0.1&count_weight=0.9" width="450px" />
 </p>
 
 ---
