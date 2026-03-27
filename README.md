@@ -1,14 +1,14 @@
-# Vansh Sardana 
+# Vansh Sardana
 ### Computer Science & Engineering | Backend & AI
 
 <p align="left">
- 
- <a href="mailto:vanshsardana874@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:vanshsardana874@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🏛️ Profile
+
 Software Engineer focused on building **backend systems** and integrating **Machine Learning** models. I prioritize writing clean, asynchronous code and designing stable database schemas for data-heavy applications.
 
 - ⚙️ **Systems:** Building APIs and handling multi-threaded logic.
@@ -40,6 +40,7 @@ Software Engineer focused on building **backend systems** and integrating **Mach
 ---
 
 ## ⚡ Technical Focus
+
 * **Efficiency:** Implementing non-blocking code for low-latency data processing.
 * **Architecture:** Designing relational schemas with a focus on ACID compliance.
 * **Deployment:** Using Docker for consistent development and production environments.
@@ -47,8 +48,9 @@ Software Engineer focused on building **backend systems** and integrating **Mach
 ---
 
 ## 📊 Language Proficiency
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-1017&layout=compact&theme=vision-friendly-dark&hide_border=true&hide_title=true" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-1017&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&langs_count=8" width="400px" />
 </p>
 
 ---
